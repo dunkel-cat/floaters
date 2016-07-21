@@ -1,0 +1,34 @@
+
+h1{ 
+	margin: 0;
+ }
+
+.papa{
+	border: 3px solid red;
+	width: 500px;
+
+}
+
+.yellow{
+	background: #F7FE2E;
+	width: 150px;
+    height: 100px;
+    
+	
+
+}
+.blue{
+	background: #0000FF;
+	width: 150px;
+    height: 100px;
+    
+	
+
+}
+.pink{
+	background: #FF0080;
+	width: 150px;
+    height: 100px;
+    
+	
+}
