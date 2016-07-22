@@ -1,7 +1,4 @@
 /* Pon tu código css aqui */
-h1{ 
-	margin: 0;
- }
 
 .papa{
 	border: 3px solid red;
@@ -12,8 +9,8 @@ h1{
 .yellow{
 	background: #F7FE2E;
 	width: 150px;
-    height: 100px;
-    float: left;
+    height:100px;
+    float: right;
     
 	
 
